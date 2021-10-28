@@ -17,6 +17,13 @@ Contained are schematics & gerber files for pcb fabrication of both electrical a
 
 [BOM](Docs/Rain-BOM.pdf)
 
+To calibrate, four pots can be accessed through the holes on the front plate. 
+
+WHITE   PINK
+BROWN   VIOLET
+
+- Adjust the white pot first as this noise if filtered for the remaining sources, looking for an output of +- 5V. 
+- Adjust the three remaining pots for the respective output levels. 
 
 If you wish to edit in ki-cad the following dependencies are required
 
